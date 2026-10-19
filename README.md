@@ -1,8 +1,8 @@
 # Hi, I'm Malek 👋
 
 **Final-year Computer Science Engineering Student at INSA Lyon**  
-🎓 Incoming Academic Exchange @ UPC Barcelona — Data Science & Machine Learning  
-🔭 Currently interning @ Crédit Agricole Technologies & Services as a Software Engineer  
+🎓 Academic Exchange @ UPC Barcelona — Data Science & Machine Learning  
+🔭 Interned at @ Crédit Agricole Technologies & Services as a Software Engineer  
 🌍 Lyon, France  
 
 ---
